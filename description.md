@@ -1,0 +1,3 @@
+HEY!!!!! 
+This is my first WEB-DEV project and my first responsive website using HTML and CSS only....
+HAVE FUN!!!
